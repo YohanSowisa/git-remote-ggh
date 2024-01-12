@@ -8,5 +8,9 @@
 <body>
   <h1>Halo, Coba GIT Remote.</h1>
   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur modi perspiciatis itaque facere eum odit.</p>
+  <ul>
+    <li>1</li>
+    <li>2</li>
+  </ul>
 </body>
 </html>
